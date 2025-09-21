@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flor con Mensaje</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="flower__love">
+    <div class="flower__text">Para vos gorda</div>
+    <div class="flower__head">
+      <div class="flower__center"></div>
+    </div>
+    <div class="flower__stem"></div>
+  </div>
+</body>
+</html>
